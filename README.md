@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @aderepas
-- 🔭 I’m interested in many topics. I' m very interesred in everything related to science
+- 🔭 I’m interested in many topics. I'm very interesred in everything related to science
 - 🎮Codingame: TKirishima
 - 📫 aderepas2@gmail.com
+- ⛳ Creator of WeekGolf [ https://week.golf ]
 
 <!---
 aderepas/aderepas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
