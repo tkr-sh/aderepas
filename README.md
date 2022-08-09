@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @aderepas
+# 👋 Hi, I’m @aderepas or you might know me as TKirishima
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to science
 - 🎮Codingame: TKirishima
 - 📫 aderepas2@gmail.com
