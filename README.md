@@ -1,9 +1,3 @@
-<style>
-#icons {
-    width: 50px;
-}
-</style>
-
 <img src="https://i.imgur.com/lgX6ohw.jpg" style="width: 50%;" align="center">
 
 # 👋 Hi, I’m @aderepas or you might know me as TKirishima
@@ -79,7 +73,7 @@
 </a>
 <!-- Github -->
 <a href="https://github.com/">
-<img src="sources/Github.png" id="icons" title="Github" style="width: 50px">
+<img src="sources/github.png" id="icons" title="Github" style="width: 50px">
 </a>
 
 
