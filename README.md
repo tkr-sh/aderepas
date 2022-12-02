@@ -3,7 +3,7 @@
 # 👋 Hi, I’m @aderepas or you might know me as TKirishima
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to science
 - 🎮Codingame: TKirishima
-- 📫 aderepas2@gmail.com
+- 📫 tkirishima@proton.me
 - ⛳ Creator of WeekGolf [ https://week.golf ]
 
 <img src="https://github-readme-stats.vercel.app/api?username=aderepas&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" style="width: 50%; margin-left: 25%">
