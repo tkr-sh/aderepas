@@ -6,7 +6,7 @@
 - 📫 tkirishima@proton.me
 - ⛳ Creator of WeekGolf [ https://week.golf ]
 
-<img src="https://github-readme-stats-git-master-aderepas.vercel.app/api?username=aderepas&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" style="width: 50%; margin-left: 25%">
+<img src="https://github-readme-stats-git-master-aderepas.vercel.app/api?username=aderepas&count_private=true&theme=monokai&show_icons=true&include_all_commits=true&bg_color=0,4FC1DC,A97894" style="width: 50%; margin-left: 25%">
 
 # Languages & Tech
 <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api/top-langs/?username=aderepas&theme=tokyonight" align="left" style="margin-right: 30px">
