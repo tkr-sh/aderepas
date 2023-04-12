@@ -5,7 +5,7 @@
     }
 </style>
 
-<img src="sources/banner-github.png" style="width: 100%; max-height: 300px; object-fit: cover" >
+<img src="src/banner-github.png" style="width: 100%; max-height: 300px; object-fit: cover" >
 
 
 # <div style="text-align: center; font-size: 4vh; font-weight: 600" align="center">👋 Hi, I’m <b style="font-weight: 900">@aderepas</b> or you might know me as TKirishima</div>
