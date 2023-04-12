@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api?username=aderepas&count_private=true&theme=monokai&show_icons=true&include_all_commits=true&bg_color=0,4FC1DC,A97894" style="width: 50%; margin-left: 25%">
 
 # Languages & Tech
-<section style="display: block">
+<section style="display: block; width: 100%; height: 250px">
     <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api/top-langs/?username=aderepas&theme=monokai&bg_color=90,4FC1DC,A97894" align="left" style="margin-right: 30px">
 
 ## Languages
@@ -42,7 +42,6 @@
 [![ThreeJS](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![WebPack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
-<br/>
 
 ## Back
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
