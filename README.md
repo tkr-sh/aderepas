@@ -8,7 +8,7 @@
 - 🔭 I’m interested in many topics. I'm very interesred in everything related to science
 - 🎮Codingame: <a href="https://www.codingame.com/profile/5aa2aa521102866114371c208d6a45c13550264">TKirishima</a>
 - 📫 tkirishima@proton.me
-- ⛳ Creator of WeekGolf [ https://week.golf ]
+- ⛳ Creator of WeekGolf [ https://www.weekgolf.net ]
 
 
 
@@ -16,8 +16,9 @@
 <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api?username=aderepas&count_private=true&theme=monokai&show_icons=true&include_all_commits=true&bg_color=0,4FC1DC,A97894" style="width: 50%; margin-left: 25%">
 
 # Languages & Tech
-<section style="display: block; width: 100%; height: 250px">
-    <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api/top-langs/?username=aderepas&theme=monokai&bg_color=90,4FC1DC,A97894" align="left" style="margin-right: 30px">
+<section style="display: block; width: 100%; height: 250px !important; margin: 10px; min-height: 250px !important; max-height: 250px !important">
+    <img src="https://github-readme-stats-git-master-aderepas.vercel.app/api/top-langs/?username=aderepas&theme=monokai&bg_color=90,4FC1DC,A97894" align="left" style="margin-right: 30px" height="250px">
+
 
 ## Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
@@ -29,6 +30,7 @@
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
 [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+
 </section>
 
 ## Front
@@ -36,6 +38,7 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
 [![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 [![Babel](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
