@@ -9,6 +9,7 @@
 - 🎮Codingame: <a href="https://www.codingame.com/profile/5aa2aa521102866114371c208d6a45c13550264">TKirishima</a>
 - 📫 tkirishima@proton.me
 - ⛳ Creator of WeekGolf [ https://www.weekgolf.net ]
+- <span style="display: flex; width: 180px; transform: translateY(4px)"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" style="height: 20px">Vim & Arch enthusiast </span>
 
 
 
